@@ -1,2 +1,2 @@
 # OmegaUPCodes
-OmegaUp problem solution
+OmegaUp problems solution
